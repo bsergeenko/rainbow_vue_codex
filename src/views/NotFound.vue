@@ -1,0 +1,1 @@
+<template><section class="page empty-state"><span class="eyebrow">404 · Seite nicht gefunden</span><h1>Hier ist gerade<br>kein Regen in Sicht.</h1><p>Diese Seite oder dieses Produkt ist leider nicht vorhanden.</p><RouterLink class="button" to="/">Zur Startseite</RouterLink></section></template>
